@@ -1,6 +1,8 @@
 tags:
-  - a tag
+  - objects
+  - methods
+  - readme
 languages:
-  - a language
+  - javascript
 resources: 
   - 1
