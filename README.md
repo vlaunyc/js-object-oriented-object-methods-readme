@@ -19,7 +19,7 @@ bob.email
 // bob@gmail.com
 ```
 
-However, now that we know how to create objects with specific data, we may also want endow our objects with behavior.  For example, say we would like to add the following behavior to our new user object:
+However, now that we know how to create objects with specific data, we may also want to endow our objects with behavior.  For example, say we would like to add the following behavior to our new user object:
 
 ```js
   bob.sayHello()
