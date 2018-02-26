@@ -127,9 +127,11 @@ lauren.sayHello()
 // "Hello everybody, my name is lauren!"
 
 let fred = new User('fred', 'fred@gmail.com')
+fred.sayHello()
 // "Hello everybody, my name is fred!"
 
 let bob = new User('bob', 'bob@gmail.com')
+bob.sayHello()
 // "Hello everybody, my name is bob!"
 ```
 
